@@ -1,0 +1,10 @@
+{
+    "users":[
+        {
+            "updated_name": "Rick",
+            "updated_phone": "123456789",
+            "updated_password": "OKOKOK",
+            "filepath": "C:\\Users\\USER\\Portfolio\\Serinify_test\\data\\profile_picture.jpg"
+        }
+    ]
+}

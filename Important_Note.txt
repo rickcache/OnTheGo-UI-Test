@@ -1,0 +1,44 @@
+Test Execution Environment
+
+This automation suite was built and executed on a custom E-commerce web application developed using Flask, HTML, and CSS.
+The application must be running locally before executing the Selenium test suite.
+
+Follow this steps to run the website
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/rickcache/On-The-Go-Ui-Testing.git
+cd on-the-go
+```
+
+### Create a Virtual Environment
+```bash
+python -m venv venv
+source venv/bin/activate      # On Linux/Mac
+venv\Scripts\activate         # On Windows
+```
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Application
+```bash
+python app.py
+```
+
+### Now open your browser and navigation to:
+```bash
+http://127.0.0.1:5000/
+```
+
+
+The Link to teh site is this(Note: The site runs on "render" and may need time to load)
+Site:- https://on-the-go-zqk7.onrender.com/
+
+⚠️ Note:
+The automation framework is tightly integrated with the Flask app’s local routes, pages, and elements.
+Running tests without starting the web app first will result in connection or NoSuchElementException errors.

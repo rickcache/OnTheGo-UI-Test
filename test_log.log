@@ -1,0 +1,9 @@
+2025-10-26 21:43:36,139 - INFO - ==== Test Session Started ====
+2025-10-26 21:43:37,552 - INFO - Directing to the Website
+2025-10-26 21:43:38,686 - INFO - Logging into the site
+2025-10-26 21:43:38,913 - INFO - Directing to the profile page
+2025-10-26 21:43:39,479 - INFO - Clicking the delete profile button
+2025-10-26 21:43:39,519 - INFO - Confirming the alert button
+2025-10-26 21:43:39,523 - INFO - Testing
+2025-10-26 21:43:39,523 - INFO - Test Successful
+2025-10-26 21:43:41,844 - INFO - ==== Test Session Finished ====
