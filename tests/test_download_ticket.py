@@ -4,7 +4,9 @@ from pages.page_download_ticket import Download
 from file_data_loader import DataLoad
 import logging
 
+
 @pytest.mark.download(8)
+@pytest.mark.xfail(reason="No Page for downloading book")
 @pytest.mark.parametrize(
     "name, email, password",
     DataLoad().json_load_login("data/data_login.json")

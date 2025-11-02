@@ -33,7 +33,7 @@ class Booking:
         dropdown_destination.select_by_visible_text("Japan")
         
         date_input = wait.until(EC.visibility_of_element_located((self.date_in)))
-        date_input.send_keys("29102025")
+        date_input.send_keys("03112025")
         
         ticket_class = wait.until(EC.presence_of_element_located((self.ticket_class)))
         ticket_class.click()
