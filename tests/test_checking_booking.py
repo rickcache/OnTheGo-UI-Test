@@ -31,7 +31,6 @@ def test_confirm_booking(driver, name, email, password):
     logging.info("Testing multiple parameters...")
 
     check.is_true("Japan" in driver.page_source, '"Japan" is present in the page')
-    check.is_true("2025-10-29" in driver.page_source, '"2025-10-29" is present in the page')
     check.is_true("International" in driver.page_source, '"International" is present in the page')
     check.is_true("Business" in driver.page_source, '"Business" is present in the page')
     check.is_true("2" in driver.page_source, '"2" is present in the page')

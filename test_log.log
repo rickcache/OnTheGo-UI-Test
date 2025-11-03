@@ -1,55 +1,7 @@
-2025-11-02 16:43:40,398 - INFO - ==== Test Session Started ====
-2025-11-02 16:43:42,909 - INFO - Registering The User
-2025-11-02 16:43:43,326 - INFO - Testing...
-2025-11-02 16:43:43,332 - INFO - Test Successful
-2025-11-02 16:43:46,601 - INFO - Directing to the site
-2025-11-02 16:43:47,735 - INFO - Logging into the site
-2025-11-02 16:43:48,461 - INFO - Testing...
-2025-11-02 16:43:48,462 - INFO - Test Successful
-2025-11-02 16:43:52,945 - INFO - Logging in into the site
-2025-11-02 16:43:53,182 - INFO - Testing the Trending deals one by one
-2025-11-02 16:43:55,253 - INFO - Test Successful
-2025-11-02 16:43:58,626 - INFO - Opening site...
-2025-11-02 16:43:59,768 - INFO - Logging in...
-2025-11-02 16:44:00,517 - INFO - Dashboard loaded. Filling review form...
-2025-11-02 16:44:00,938 - ERROR - Test test_review[username-username@example.com-Super easy and fast ticket booking! Smooth interface, quick checkout, and perfect for travel on the go.-Rick-rick@example.com-OKOKOK] FAILED
-2025-11-02 16:44:04,225 - INFO - Directing to the Website
-2025-11-02 16:44:05,365 - INFO - Logging into the site
-2025-11-02 16:44:05,590 - INFO - Filling the booking
-2025-11-02 16:44:06,518 - INFO - Booking successful
-2025-11-02 16:44:16,838 - INFO - Directing to the Website
-2025-11-02 16:44:17,975 - INFO - Logging into the Website
-2025-11-02 16:44:18,213 - INFO - Filling the booking form
-2025-11-02 16:44:19,137 - INFO - Filling the Payment form
-2025-11-02 16:44:23,776 - INFO - Testing...
-2025-11-02 16:44:23,791 - INFO - Test Successful
-2025-11-02 16:44:27,125 - INFO - Directing to the site
-2025-11-02 16:44:28,278 - INFO - Logging into the site
-2025-11-02 16:44:28,498 - INFO - Directing to the booking history page
-2025-11-02 16:44:29,086 - INFO - Testing multiple parameters...
-2025-11-02 16:44:29,101 - INFO - All elements are present (or checked with soft assertions)
-2025-11-02 16:44:34,571 - ERROR - Test test_update_profile[Rick-123456789-OKOKOK-C:\\Users\\USER\\Portfolio\\Serinify_test\\data\\profile_picture.jpg-Rick-rick@example.com-OKOKOK] FAILED
-2025-11-02 16:44:37,858 - INFO - Directing to the Website
-2025-11-02 16:44:39,011 - INFO - Logging into the site
-2025-11-02 16:44:39,232 - INFO - Directing to the profile page
-2025-11-02 16:44:39,808 - INFO - Clicking the delete profile button
-2025-11-02 16:44:39,848 - INFO - Confirming the alert button
-2025-11-02 16:44:39,851 - INFO - Testing
-2025-11-02 16:44:39,851 - INFO - Test Successful
-2025-11-02 16:44:43,302 - INFO - Directing to the Website
-2025-11-02 16:44:44,443 - INFO - Logging into the site
-2025-11-02 16:44:44,675 - INFO - Filling the booking
-2025-11-02 16:44:45,589 - INFO - Booking successful
-2025-11-02 16:44:45,590 - INFO - Filling theh payment form
-2025-11-02 16:44:49,220 - INFO - Clicking the cancel button
-2025-11-02 16:44:49,279 - INFO - Confirming the javascript alert
-2025-11-02 16:44:49,282 - INFO - Testing
-2025-11-02 16:44:49,327 - INFO - Test Successful
-2025-11-02 16:44:54,047 - INFO - Attempting to download ticket...
-2025-11-02 16:45:04,722 - ERROR - Test test_download_ticket[Rick-rick@example.com-OKOKOK] FAILED
-2025-11-02 16:45:08,042 - INFO - Directing to the Website
-2025-11-02 16:45:09,169 - INFO - Logging into the site
-2025-11-02 16:45:09,393 - INFO - Logging out
-2025-11-02 16:45:09,975 - INFO - Testing...
-2025-11-02 16:45:09,982 - INFO - Test Successful
-2025-11-02 16:45:12,244 - INFO - ==== Test Session Finished ====
+2025-11-03 21:12:10,291 - INFO - ==== Test Session Started ====
+2025-11-03 21:12:11,665 - INFO - Directing to the site
+2025-11-03 21:12:12,811 - INFO - Logging into the site
+2025-11-03 21:12:13,050 - INFO - Directing to the booking history page
+2025-11-03 21:12:13,618 - INFO - Testing multiple parameters...
+2025-11-03 21:12:13,632 - INFO - All elements are present (or checked with soft assertions)
+2025-11-03 21:12:15,834 - INFO - ==== Test Session Finished ====
