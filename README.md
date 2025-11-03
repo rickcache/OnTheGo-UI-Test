@@ -1,13 +1,16 @@
 ## On The Go Site Automation Project (Selenium + Pytest)
 
-**On The Go** is a personal mental wellness platform that allows users to:
+**On The Go** is a convenient online ticket booking platform that allows users to:
 
-- Book appointments with therapists
-- Track meditation progress
-- Record mood daily
-- Maintain a journal
-- Access a curated library of mental wellness books
+-Search and compare available travel routes
 
+-Book tickets for buses or trains seamlessly
+
+-View and manage existing bookings
+
+-Cancel tickets and request refunds
+
+-Download e-tickets and booking receipts for travel
 ---
 
 ## **Overview**
@@ -105,6 +108,7 @@ Check Booking Details – Verify correct booking information display
 Cancel Booking – Test ticket cancellation workflow
 
 Download Ticket – Verify tickets are downloadable and saved correctly
+
 ## Reporting & Artifacts
 
 HTML Reports
@@ -128,6 +132,8 @@ Custom Fixtures – conftest.py handles WebDriver setup, teardown, logging, and 
 Error Capture – Screenshots and logs are automatically attached to reports on failure
 
 Cross-Browser Ready – ChromeOptions configured; extendable for Firefox or Edge
+
+
 ## Tools & Libraries
 
 Tool / Library	Purpose
